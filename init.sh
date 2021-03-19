@@ -45,3 +45,4 @@ echo "-> ACR Login Username: ACR_USERNAME"
 echo "-> ACR Password: $ACR_PASSWORD"
 echo "-> AKS Cluster Name: $ACR_NAME"
 echo "-> AKS DNS Zone Name: $DNS_NAME"
+
